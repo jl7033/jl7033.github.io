@@ -1,12 +1,12 @@
 ---
-title: "My awesome website"
+title: "Joe's awesome website"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This is Jeff's awesome website
+# This is Joe's awesome website
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
@@ -14,7 +14,7 @@ This is an **awesome website** about data science and Elmo.
 
 Sometimes I use [google](https://google.com/) to do data science when I need help.
 
-If you'd like to learn more about this weksbte, visit [this page](about.html).
+If you'd like to learn more about this website, visit [this page](about.html).
 
 
 
