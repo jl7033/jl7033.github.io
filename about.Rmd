@@ -13,3 +13,5 @@ knitr::opts_chunk$set(echo = TRUE)
 # Information
 
 This website was made as an example in [P8105](https://p8105.com) for "Making Websites". I'm making in RMD and will use GitHub for hosting.
+
+Here's a link to go [home](index.html).
