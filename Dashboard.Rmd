@@ -1,50 +1,40 @@
 ---
-title: "plotly"
+title: "Dashboard!!"
 output: 
-  html_document:
-    toc: true
-    toc_float: true
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## Making Plots
-
-Today we're making interactive plots in plotly. We'll make examples using the NYC Airbnb Dataset.
-
-```{r}
-
+library(flexdashboard)
 library(tidyverse)
 library(p8105.datasets)
 library(plotly)
-
 ```
-
-#### Upload and Filter Data
 
 ```{r}
 
-data("nyc_airbnb")
+data(nyc_airbnb)
 
 nyc_airbnb = 
-  nyc_airbnb %>%
-  mutate(rating = review_scores_location / 2) %>%
+  nyc_airbnb |> 
+  mutate(rating = review_scores_location / 2) |>
   select(
-    rating, neighbourhood_group, neighbourhood,
-    room_type, lat, long, price
-  ) %>%
-  drop_na(rating) %>%
+    neighbourhood_group, neighbourhood, rating, price, room_type, lat, long) |>
   filter(
+    !is.na(rating), 
     neighbourhood_group == "Manhattan",
     room_type == "Entire home/apt",
-    price %in% 100:500
-  )
+    price %in% 100:500)
 
 ```
 
-#### Use plotly to make some quick plots
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
 
 ```{r}
 
@@ -57,7 +47,10 @@ nyc_airbnb %>%
 
 ```
 
-#### Making a Box Plot
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
 
 ```{r}
 
@@ -70,7 +63,7 @@ nyc_airbnb %>%
 
 ```
 
-#### Bar Chart with Number of Rentals
+### Chart C
 
 ```{r}
 
@@ -82,12 +75,3 @@ nyc_airbnb %>%
 
 ```
 
-#### Heat Map
-
-```{r}
-
-plot_ly(
-  z = volcano, type = "heatmap"
-)
-
-```
