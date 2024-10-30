@@ -68,7 +68,8 @@ nyc_inspections %>%
   plot_ly(
     x = ~score,
     type = "histogram"
-  )
+  ) %>%
+  layout(title = "Histogram of Inspection Scores in Manhattan")
 
 ```
 
@@ -85,7 +86,8 @@ nyc_inspections %>%
   plot_ly(
     x = ~score,
     type = "box"
-  )
+  ) %>%
+  layout(title = "Boxplot of Inspection Scores in Manhattan")
 
 ```
 
@@ -98,7 +100,8 @@ nyc_inspections %>%
   plot_ly(
     x = ~critical_flag, y = ~n,
     type = "bar"
-  )
+  ) %>%
+  layout(title = "Bar Graph of Critical Inspection Status")
   
 ```
 
