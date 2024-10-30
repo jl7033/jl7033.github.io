@@ -12,6 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Information
 
-This website was made as an example in [P8105](https://p8105.com) for "Making Websites". I'm making in RMD and will use GitHub for hosting.
+Joe is currently a first-year MS student at the Columbia Univeristy Mailman School of Public Health. He's studying biostatistics with a concentration in statistical genetics and is aiming to work as a biostatistician, data scientist, and/or researcher in the future. In his free time, Joe enjoys running, jazz piano, cooking, and playing chess. 
+
+Here's a link to Joe's [resume](https://docs.google.com/document/d/1ZiX1AcgGnHAiknLl9AM79CGySNFZHAz0/edit). 
 
 Here's a link to go [home](index.html).
