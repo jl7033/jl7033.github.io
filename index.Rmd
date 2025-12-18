@@ -1,5 +1,6 @@
 ---
 title: "Joe LaRocca"
+subtitle: "MS Biostatistics Student, Columbia University 2022 Teach For America Corps Member"
 output: 
   html_document:
     toc: true

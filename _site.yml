@@ -1,18 +1,19 @@
-name: "Yay internet!"
+name: "Joe LaRocca's Personal Website"
 output_dir: "."
+
 navbar:
   title: "Home"
   right:
     - text: "About"
       href: about.html
-    - text: "Dashboard"
-      href: Dashboard2.html
     - text: "LinkedIn"
       href: https://www.linkedin.com/in/joe-larocca-69196a148/
     - icon: fa-envelope fa-lg
-      href: mailto:<jlarocca23@gmail.com>
+      href: mailto:jlarocca23@gmail.com
     - icon: fa-github fa-lg
-      href: http://github.com/jl7033/
+      href: https://github.com/jl7033/
+
 output:
   html_document:
     theme: flatly
+    css: styles.css

@@ -1,0 +1,75 @@
+/* =========================
+   Global font
+   ========================= */
+
+body {
+  font-family: "Garamond", "EB Garamond", "Times New Roman", serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #1a1a1a;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Garamond", "EB Garamond", "Times New Roman", serif;
+  font-weight: 600;
+}
+
+
+/* =========================
+   Navbar styling
+   ========================= */
+
+/* Navbar background */
+.navbar,
+.navbar-default {
+  background-color: #001f3f !important; /* Navy blue */
+  border-color: #001f3f !important;
+  font-family: "Garamond", "EB Garamond", "Times New Roman", serif; /* Navbar font */
+}
+
+/* Navbar title + links */
+.navbar a,
+.navbar-brand {
+  color: #ffffff !important; /* White text */
+  font-family: "Garamond", "EB Garamond", "Times New Roman", serif;
+}
+
+/* Hover state */
+.navbar a:hover,
+.navbar a:focus {
+  color: #c0c0c0 !important; /* Light gray on hover */
+  text-decoration: none;
+}
+
+/* Active page */
+.navbar .active > a {
+  background-color: transparent !important;
+  color: #e0e0e0 !important;
+}
+
+/* Font Awesome icons */
+.navbar .fa {
+  color: #ffffff; /* white icons */
+}
+
+.navbar .fa:hover {
+  color: #c0c0c0;
+}
+
+/* Center the title */
+
+h1 {
+  text-align: center;
+  font-family: "Garamond", "EB Garamond", "Times New Roman", serif;
+  font-size: 48px; /* adjust as needed */
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h2, h3 {
+  text-align: center;
+  font-family: "Garamond", "EB Garamond", "Times New Roman", serif;
+  font-weight: normal;
+  color: #333333;
+  margin-bottom: 5px;
+}
