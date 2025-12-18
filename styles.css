@@ -62,8 +62,8 @@ h1 {
   text-align: center;
   font-family: "Garamond", "EB Garamond", "Times New Roman", serif;
   font-size: 48px; /* adjust as needed */
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 5px;
+  margin-bottom: 0px;
 }
 
 h2, h3 {

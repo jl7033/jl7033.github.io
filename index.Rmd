@@ -1,11 +1,17 @@
 ---
 title: "Joe LaRocca"
-subtitle: "MS Biostatistics Student, Columbia University 2022 Teach For America Corps Member"
+subtitle: |
+  <hr>
+  MS Biostatistics Student, Columbia University
+  <hr>
+  2022 Teach For America Corps Member
+  <hr>
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
+\newline
 
 You've visited Joe LaRocca's personal website!
 
