@@ -1,0 +1,23 @@
+---
+title: "About Me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hey, everyone! I'm Joe, and I'm currently a second-year MS Biostatistics student at the Columbia University Mailman School of Public Health. I grew up in the Boston area with my younger sister, Mira, and was fascinated by math and numbers from a young age. Whether it was asking my mom to count by twenty-sixes from his car seat or building a list of the first thirty powers of two with my dad, I've always been trying to push the boundaries of his mathematical (and later, statistical) knowledge.
+
+I majored in Statistics at Williams College, graduating in 2022 and earning induction into the Mu Sigma Rho and Sigma Xi honor societies for my work within the major and his undergraduate thesis. An enthusiastic sports fan, I wrote articles for seven different Williams sports teams, including the undefeated 2021 football team, and earned the Deford Award, Williams College's sportswriting award, for my coverage. After Williams, I moved to Nashville to teach high school mathematics and physics at LEAD Academy High School as part of Teach For America. In addition to teaching, I coached LEAD's cross-country and track teams. 
+
+Since the fall of 2024, I've been studying biostatistics at Columbia. My primary research interests include statistical genetics, machine learning, aging, and chronic disease. I'm currently applying for PhD Biostatistics programs and hope to enroll in the fall of 2026!
+
+In his free time, I enjoy running, jazz piano, cooking, and playing chess. If you'd like to learn more, go to the ZZZ section!
+
+Here's a link to Joe's [resume](https://docs.google.com/document/d/1ZiX1AcgGnHAiknLl9AM79CGySNFZHAz0/edit). 
+
+Here's a link to go [home](index.html).
