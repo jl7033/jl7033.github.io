@@ -6,6 +6,10 @@ navbar:
   right:
     - text: "About"
       href: about.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Outside Work"
+      href: outside_work.html
     - text: "LinkedIn"
       href: https://www.linkedin.com/in/joe-larocca-69196a148/
     - icon: fa-envelope fa-lg

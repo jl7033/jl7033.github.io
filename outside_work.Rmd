@@ -1,0 +1,36 @@
+---
+title: "Outside Work"
+output: 
+  html_document:
+    toc: false
+    toc_float: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Running
+
+<p style="text-align: center;">
+  <img src="joe_running.png"
+       alt="Joe Running"
+       width="220"
+       style="border-radius: 50%;">
+</p>
+
+I never enjoyed running as a kid, but I joined my high-school cross-country team when I was 15 and haven't looked back. I'm currently trying to run a half marathon in all 50 states; as of the end of 2025, I'm at 7 so far! You can track my progress here.
+
+## Music
+
+<p style="text-align: center;">
+  <img src="joe_piano.png"
+       alt="Joe Piano"
+       width="220"
+       style="border-radius: 50%;">
+</p>
+
+My friend Emily Ham and I have been playing jazz around New York City over the past year. If you'd like to reach out, please do so by clicking the email link!
+
+
+## Chess

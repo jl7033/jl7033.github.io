@@ -13,9 +13,12 @@ output:
 ---
 \newline
 
-<center>
-![](2025_Headshot.png)
-</center>
+<p style="text-align: center;">
+  <img src="2025_Headshot.png"
+       alt="Joe LaRocca headshot"
+       width="220"
+       style="border-radius: 50%;">
+</p>
 
 \newline
 \newline
