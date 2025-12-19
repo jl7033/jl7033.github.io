@@ -1,0 +1,22 @@
+---
+title: "Joe LaRocca"
+subtitle: |
+  <hr>
+  MS Biostatistics Student, Columbia University
+  <hr>
+  2022 Teach For America Corps Member
+  <hr>
+output: 
+  html_document:
+    toc: false
+    toc_float: false
+---
+\newline
+
+Hey, everyone! I'm Joe, and I'm currently a second-year MS Biostatistics student at the Columbia University Mailman School of Public Health.
+
+
+
+
+
+
