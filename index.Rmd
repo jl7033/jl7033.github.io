@@ -13,6 +13,13 @@ output:
 ---
 \newline
 
+<center>
+![](2025_Headshot.png)
+</center>
+
+\newline
+\newline
+
 Hey, everyone! I'm Joe, and I'm currently a second-year MS Biostatistics student at the Columbia University Mailman School of Public Health.
 
 
