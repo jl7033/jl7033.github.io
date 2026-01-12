@@ -12,14 +12,34 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Here are some of the projects I've been working on!
 
-## Table of Contents
+### Table of Contents
 - [Baseball Analytics](#baseball-analytics)
 - [Football Analytics](#football-analytics)
 - [Biostatistics & Health](#biostatistics--health)
 
-## Baseball Analytics {#baseball-analytics}
+### Baseball Analytics {#baseball-analytics}
 
-## Football Analytics {#baseball-analytics}
+### Football Analytics {#baseball-analytics}
 
-## Biostatistics & Health {#biostatistics-health}
+### Biostatistics & Health {#biostatistics-health}
+
+#### Longitudinal Analysis
+
+**Motivation**  
+Does the copper chelating drug D-penicillamine lead to meaningful improvements over time in patients with primary biliary cirrhosis (PBC)?
+
+**Data & Methods**
+- Mayo Clinic (pbcseq dataset, R **survival** package)
+- Response variable: serum bilirubin (mg/dL)
+- Linear mixed model (random effects for each study participant)
+- Fixed effects for clinical indicators of liver disease, blood clotting measures, and demographics
+
+**Key Results**
+- Serum bilirubin levels generally increased over time, consistent with progressive liver deterioration, and were associated with multiple clinical markers
+- No statistically significant effect of D-penicillamine on serum bilirubin
+- Findings are consistent with prior evidence indicating limited clinical benefit and increased risk of adverse outcomes, contributing to the discontinuation of the treatment in practice
+
+**Links**
+- 📄 [Final report (PDF)](Reports/longitudinal_report.pdf)
+- 💻 [GitHub repository](https://github.com/jl7033/longitudinal_analysis)
 
