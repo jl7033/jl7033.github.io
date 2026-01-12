@@ -24,7 +24,7 @@ My portfolio includes both health- and sports-related projects.
 
 #### 1. DNA Methylation Analysis within the TCGA-BRCA Study
 
-![](Plots/dna_methylation_volcano_plot.png)
+![](Plots/dna_methylation_volcano_plot.png){height=300px}
 
 **Motivation**  
 Are there systematic differences in DNA methylation between tumor tissue and healthy tissue in patients with breast cancer?
@@ -53,7 +53,7 @@ Are there systematic differences in DNA methylation between tumor tissue and hea
 
 #### 2. Longitudinal Analysis of D-Penicillamine in Primary Biliary Cirrhosis
 
-![](Plots/bili_spaghetti.png)
+![](Plots/bili_spaghetti.png){height=300px}
 
 **Motivation**  
 Does the copper chelating drug D-penicillamine lead to meaningful improvements over time in patients with primary biliary cirrhosis (PBC)?
@@ -84,7 +84,7 @@ Does the copper chelating drug D-penicillamine lead to meaningful improvements o
 
 #### 3. Building Machine Learning Models to Predict Incidence of Severe Flu
 
-![](Plots/flu_cv_auc.png)
+![](Plots/flu_cv_auc.png){height=300px}
 
 **Motivation**  
 Which type of machine learning model is most effective with respect to predicting the risk of severe flu within six months of vaccination?
@@ -112,6 +112,8 @@ Which type of machine learning model is most effective with respect to predictin
 **Links:**
 📄 [Final report (PDF)](Reports/ml_flu_analysis_report.pdf) |
 💻 [GitHub repository](https://github.com/jl7033/machine_learning_flu_analysis)
+
+---
 
 ### ⚾ Baseball Analytics
 
