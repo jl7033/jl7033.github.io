@@ -341,19 +341,24 @@ repository</a></p>
 <div id="machine-learning-flu-analysis" class="section level4">
 <h4>3. Machine Learning Flu Analysis</h4>
 <p><strong>Motivation</strong><br />
-Are there systematic differences in DNA methylation between tumor tissue
-and healthy tissue in patients with breast cancer?</p>
-<p><strong>Data &amp; Methods</strong> - The Cancer Genome Atlas
-(TCGA-BRCA) - Sample: 27 patients with matched tumor and healthy tissue
-- Beta values for ~24,000 CpG sites per patient</p>
-<p><strong>Key Results</strong> - PCA revealed clear separation between
-tumor and normal tissue samples - After FDR adjustment, over 600 CpG
-sites exhibited significant hyper- or hypomethylation in tumor tissue -
-No strong relationship was observed between differential methylation and
-genomic location</p>
+Which type of machine learning model is most effective with respect to
+predicting the risk of severe flu within six months of vaccination?</p>
+<p><strong>Data &amp; Methods</strong> - Columbia University (P8106:
+Data Science II course materials) - Response: severe flu within six
+months of vaccination (binary) - Predictors: demographic variables,
+smoking history, BMI, comorbidities (diabetes, hypertension), blood
+pressure, LDL cholesterol - Supervised classification models: logistic
+regression, boosting, SVMs - Model comparison using cross-validated
+AUC</p>
+<p><strong>Key Results</strong> - Support vector machines with a linear
+kernel achieved the highest AUC, though performance differences across
+models were modest - Logistic regression was selected as the final model
+to prioritize interpretability with minimal loss in predictive
+performance - Current smoking status and higher BMI were associated with
+increased risk of severe flu</p>
 <p><strong>Links</strong> - 📄 <a
-href="Reports/dna_methylation_report.pdf">Final report (PDF)</a> - 💻 <a
-href="https://github.com/jl7033/dna_methylation_project">GitHub
+href="Reports/ml_flu_analysis_report.pdf">Final report (PDF)</a> - 💻 <a
+href="https://github.com/jl7033/machine_learning_flu_analysis">GitHub
 repository</a></p>
 </div>
 </div>
