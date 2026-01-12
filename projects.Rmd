@@ -81,5 +81,5 @@ Which type of machine learning model is most effective with respect to predictin
 
 ### Baseball Analytics {#baseball-analytics}
 
-### Football Analytics {#baseball-analytics}
+### Football Analytics {#football-analytics}
 
