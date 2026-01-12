@@ -53,7 +53,7 @@ Are there systematic differences in DNA methylation between tumor tissue and hea
 
 #### 2. Longitudinal Analysis of D-Penicillamine in Primary Biliary Cirrhosis
 
-![](Plots/bili_spaghetti.pdf)
+![](Plots/bili_spaghetti.png)
 
 **Motivation**  
 Does the copper chelating drug D-penicillamine lead to meaningful improvements over time in patients with primary biliary cirrhosis (PBC)?
@@ -83,6 +83,8 @@ Does the copper chelating drug D-penicillamine lead to meaningful improvements o
 ---
 
 #### 3. Building Machine Learning Models to Predict Incidence of Severe Flu
+
+![](Plots/flu_cv_auc.png)
 
 **Motivation**  
 Which type of machine learning model is most effective with respect to predicting the risk of severe flu within six months of vaccination?
