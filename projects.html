@@ -297,8 +297,11 @@ $(document).ready(function () {
 </div>
 <div id="biostatistics-health" class="section level3">
 <h3>Biostatistics &amp; Health</h3>
-<div id="longitudinal-analysis" class="section level4">
-<h4>1. Longitudinal Analysis</h4>
+<div
+id="longitudinal-analysis-of-d-penicillamine-in-primary-biliary-cirrhosis"
+class="section level4">
+<h4>1. Longitudinal Analysis of D-Penicillamine in Primary Biliary
+Cirrhosis</h4>
 <p><strong>Motivation</strong><br />
 Does the copper chelating drug D-penicillamine lead to meaningful
 improvements over time in patients with primary biliary cirrhosis
@@ -320,42 +323,61 @@ href="Reports/longitudinal_report.pdf">Final report (PDF)</a> - 💻 <a
 href="https://github.com/jl7033/longitudinal_analysis">GitHub
 repository</a></p>
 </div>
-<div id="dna-methylation-analysis" class="section level4">
-<h4>2. DNA Methylation Analysis</h4>
+<div id="dna-methylation-analysis-within-the-tcga-brca-study"
+class="section level4">
+<h4>2. DNA Methylation Analysis within the TCGA-BRCA Study</h4>
 <p><strong>Motivation</strong><br />
 Are there systematic differences in DNA methylation between tumor tissue
 and healthy tissue in patients with breast cancer?</p>
 <p><strong>Data &amp; Methods</strong> - The Cancer Genome Atlas
-(TCGA-BRCA) - Sample: 27 patients with matched tumor and healthy tissue
-- Beta values for ~24,000 CpG sites per patient</p>
+(TCGA-BRCA)</p>
+<ul>
+<li><p>Sample: 27 patients with matched tumor and healthy
+tissue</p></li>
+<li><p>Beta values for ~24,000 CpG sites per patient</p></li>
+</ul>
 <p><strong>Key Results</strong> - PCA revealed clear separation between
-tumor and normal tissue samples - After FDR adjustment, over 600 CpG
-sites exhibited significant hyper- or hypomethylation in tumor tissue -
-No strong relationship was observed between differential methylation and
-genomic location</p>
+tumor and normal tissue samples</p>
+<ul>
+<li><p>After FDR adjustment, over 600 CpG sites exhibited significant
+hyper- or hypomethylation in tumor tissue</p></li>
+<li><p>No strong relationship was observed between differential
+methylation and genomic location</p></li>
+</ul>
 <p><strong>Links</strong> - 📄 <a
 href="Reports/dna_methylation_report.pdf">Final report (PDF)</a> - 💻 <a
 href="https://github.com/jl7033/dna_methylation_project">GitHub
 repository</a></p>
 </div>
-<div id="machine-learning-flu-analysis" class="section level4">
-<h4>3. Machine Learning Flu Analysis</h4>
+<div
+id="building-machine-learning-models-to-predict-incidence-of-severe-flu"
+class="section level4">
+<h4>3. Building Machine Learning Models to Predict Incidence of Severe
+Flu</h4>
 <p><strong>Motivation</strong><br />
 Which type of machine learning model is most effective with respect to
 predicting the risk of severe flu within six months of vaccination?</p>
 <p><strong>Data &amp; Methods</strong> - Columbia University (P8106:
-Data Science II course materials) - Response: severe flu within six
-months of vaccination (binary) - Predictors: demographic variables,
-smoking history, BMI, comorbidities (diabetes, hypertension), blood
-pressure, LDL cholesterol - Supervised classification models: logistic
-regression, boosting, SVMs - Model comparison using cross-validated
-AUC</p>
+Data Science II course materials)</p>
+<ul>
+<li><p>Response: severe flu within six months of vaccination
+(binary)</p></li>
+<li><p>Predictors: demographic variables, smoking history, BMI,
+comorbidities (diabetes, hypertension), blood pressure, LDL
+cholesterol</p></li>
+<li><p>Supervised classification models: logistic regression, boosting,
+SVMs</p></li>
+<li><p>Model comparison using cross-validated AUC</p></li>
+</ul>
 <p><strong>Key Results</strong> - Support vector machines with a linear
 kernel achieved the highest AUC, though performance differences across
-models were modest - Logistic regression was selected as the final model
-to prioritize interpretability with minimal loss in predictive
-performance - Current smoking status and higher BMI were associated with
-increased risk of severe flu</p>
+models were modest</p>
+<ul>
+<li><p>Logistic regression was selected as the final model to prioritize
+interpretability with minimal loss in predictive performance</p></li>
+<li><p>Current smoking status and higher BMI were associated with
+increased risk of severe flu</p></li>
+</ul>
 <p><strong>Links</strong> - 📄 <a
 href="Reports/ml_flu_analysis_report.pdf">Final report (PDF)</a> - 💻 <a
 href="https://github.com/jl7033/machine_learning_flu_analysis">GitHub
