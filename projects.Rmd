@@ -10,6 +10,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+My portfolio includes both health- and sports-related projects. 
+
 ### Table of Contents
 - [Biostatistics & Health](#biostatistics--health)
 - [Baseball Analytics](#baseball-analytics)
