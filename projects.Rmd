@@ -13,13 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 Here are some of the projects I've been working on!
 
 ### Table of Contents
+- [Biostatistics & Health](#biostatistics--health)
 - [Baseball Analytics](#baseball-analytics)
 - [Football Analytics](#football-analytics)
-- [Biostatistics & Health](#biostatistics--health)
-
-### Baseball Analytics {#baseball-analytics}
-
-### Football Analytics {#baseball-analytics}
 
 ### Biostatistics & Health {#biostatistics-health}
 
@@ -44,3 +40,44 @@ Does the copper chelating drug D-penicillamine lead to meaningful improvements o
 - 💻 [GitHub repository](https://github.com/jl7033/longitudinal_analysis)
 
 #### 2. DNA Methylation Analysis
+
+**Motivation**  
+Are there systematic differences in DNA methylation between tumor tissue and healthy tissue in patients with breast cancer?
+
+**Data & Methods**
+- The Cancer Genome Atlas (TCGA-BRCA)
+- Sample: 27 patients with matched tumor and healthy tissue
+- Beta values for ~24,000 CpG sites per patient
+
+**Key Results**
+- PCA revealed clear separation between tumor and normal tissue samples
+- After FDR adjustment, over 600 CpG sites exhibited significant hyper- or hypomethylation in tumor tissue
+- No strong relationship was observed between differential methylation and genomic location
+
+**Links**
+- 📄 [Final report (PDF)](Reports/dna_methylation_report.pdf)
+- 💻 [GitHub repository](https://github.com/jl7033/dna_methylation_project)
+
+#### 3. Machine Learning Flu Analysis
+
+**Motivation**  
+Are there systematic differences in DNA methylation between tumor tissue and healthy tissue in patients with breast cancer?
+
+**Data & Methods**
+- The Cancer Genome Atlas (TCGA-BRCA)
+- Sample: 27 patients with matched tumor and healthy tissue
+- Beta values for ~24,000 CpG sites per patient
+
+**Key Results**
+- PCA revealed clear separation between tumor and normal tissue samples
+- After FDR adjustment, over 600 CpG sites exhibited significant hyper- or hypomethylation in tumor tissue
+- No strong relationship was observed between differential methylation and genomic location
+
+**Links**
+- 📄 [Final report (PDF)](Reports/dna_methylation_report.pdf)
+- 💻 [GitHub repository](https://github.com/jl7033/dna_methylation_project)
+
+### Baseball Analytics {#baseball-analytics}
+
+### Football Analytics {#baseball-analytics}
+
