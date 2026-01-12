@@ -14,7 +14,7 @@ output:
 \newline
 
 <p style="text-align: center;">
-  <img src="2025_Headshot.png"
+  <img src="Photos/2025_Headshot.png"
        alt="Joe LaRocca headshot"
        width="220"
        style="border-radius: 50%;">
@@ -25,7 +25,7 @@ output:
 
 Hello! I'm Joe, and I'm currently a second-year MS Biostatistics student at the Columbia University Mailman School of Public Health.
 
-If you're here to learn more about me, check out my [About](about.html) page. Alternatively, if you'd like to take a look at projects I've been working on recently, visit the [Projects](projects.html) page.
+If you're here to learn more about me, check out my [About](About/about.html) page. Alternatively, if you'd like to take a look at projects I've been working on recently, visit the [Projects](Projects/projects.html) page.
 
 
 

@@ -16,4 +16,4 @@ Since the fall of 2024, I've been pursuing an MS in Biostatistics in Columbia, w
 
 I'm currently applying for jobs in statistics and/or data science, particularly within the healthcare and sports industries.
 
-Here's a link to my [resume](larocca_resume_2026_01.pdf). 
+Here's a link to my [resume](../Resume/larocca_resume_2026_01.pdf). 

@@ -1,0 +1,25 @@
+---
+title: "Projects"
+output: 
+  html_document:
+    toc: false
+    toc_float: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here are some of the projects I've been working on!
+
+## Table of Contents
+- [Baseball Analytics](#baseball-analytics)
+- [Football Analytics](#football-analytics)
+- [Biostatistics & Health](#biostatistics--health)
+
+## Baseball Analytics {#baseball-analytics}
+
+## Football Analytics {#baseball-analytics}
+
+## Biostatistics & Health {#biostatistics-health}
+
