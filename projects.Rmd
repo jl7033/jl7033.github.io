@@ -49,7 +49,11 @@ Are there systematic differences in DNA methylation between tumor tissue and hea
 📄 [Final report (PDF)](Reports/dna_methylation_report.pdf) |
 💻 [GitHub repository](https://github.com/jl7033/dna_methylation_project)
 
+---
+
 #### 2. Longitudinal Analysis of D-Penicillamine in Primary Biliary Cirrhosis
+
+![](Plots/bili_spaghetti.pdf)
 
 **Motivation**  
 Does the copper chelating drug D-penicillamine lead to meaningful improvements over time in patients with primary biliary cirrhosis (PBC)?
@@ -75,6 +79,8 @@ Does the copper chelating drug D-penicillamine lead to meaningful improvements o
 **Links:**
 📄 [Final report (PDF)](Reports/longitudinal_report.pdf) |
 💻 [GitHub repository](https://github.com/jl7033/longitudinal_analysis)
+
+---
 
 #### 3. Building Machine Learning Models to Predict Incidence of Severe Flu
 
