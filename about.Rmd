@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 I majored in Statistics at Williams College, graduating in 2022 and earning induction into the Mu Sigma Rho and Sigma Xi honor societies for my work within the Statistics major and my undergraduate thesis. An enthusiastic sports fan, I wrote articles for seven different Williams sports teams, including the undefeated 2021 football team, and earned the Deford Award, Williams College's sportswriting award, for my coverage. After Williams, I moved to Nashville to teach high school mathematics and physics at LEAD Academy High School as part of Teach For America. In addition to teaching, I coached LEAD's cross-country and track teams. 
 
-Since the fall of 2024, I've been pursuing an MS in Biostatistics in Columbia, with a specialization in statistical genetics. My coursework has covered topics including probability theory, statistical inference, statistical modeling (including longitudinal and high-dimensional data such as DNA methylation data and features extracted from single-cell microscopy images), and programming in R, Python, and SQL.
+Since the fall of 2024, I've been pursuing an MS in Biostatistics at Columbia University, with a specialization in statistical genetics. My coursework has covered topics including probability theory, statistical inference, statistical modeling (including longitudinal and high-dimensional data such as DNA methylation data and features extracted from single-cell microscopy images), and programming in R, Python, and SQL.
 
 I'm currently applying for jobs in statistics and/or data science, particularly within the healthcare and sports industries.
 
