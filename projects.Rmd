@@ -23,7 +23,7 @@ Here are some of the projects I've been working on!
 
 ### Biostatistics & Health {#biostatistics-health}
 
-#### Longitudinal Analysis
+#### 1. Longitudinal Analysis
 
 **Motivation**  
 Does the copper chelating drug D-penicillamine lead to meaningful improvements over time in patients with primary biliary cirrhosis (PBC)?
@@ -43,3 +43,4 @@ Does the copper chelating drug D-penicillamine lead to meaningful improvements o
 - 📄 [Final report (PDF)](Reports/longitudinal_report.pdf)
 - 💻 [GitHub repository](https://github.com/jl7033/longitudinal_analysis)
 
+#### 2. DNA Methylation Analysis
