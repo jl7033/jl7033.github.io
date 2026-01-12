@@ -28,7 +28,7 @@ My portfolio includes both health- and sports-related projects.
 \newline
 \newline
 
-#### 1. DNA Methylation Analysis within the TCGA-BRCA Study
+#### 1. Exploring DNA Methylation in Breast Cancer (TCGA-BRCA)
 
 ![](Plots/dna_methylation_volcano_plot.png){height=300px style="display:block; margin:0 auto;"}
 
