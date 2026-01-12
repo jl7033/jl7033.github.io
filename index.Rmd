@@ -23,7 +23,7 @@ output:
 \newline
 \newline
 
-Hello! I'm Joe, and I'm currently a second-year MS Biostatistics student at the Columbia University Mailman School of Public Health.
+Hello! I'm Joe, and I'm currently a second-year MS Biostatistics student at the Columbia University Mailman School of Public Health, on track to graduate in May 2026.
 
 If you're here to learn more about me, check out my [About](about.html) page. Alternatively, if you'd like to take a look at projects I've been working on recently, visit the [Projects](projects.html) page.
 
