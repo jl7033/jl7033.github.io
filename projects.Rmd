@@ -19,12 +19,6 @@ My portfolio includes both health- and sports-related projects.
 - [Baseball Analytics](#baseball-analytics)
 - [Football Analytics](#football-analytics)
 
----
-
-### 🧬 Biostatistics & Health {#biostatistics-health}
-
----
-
 \newline
 \newline
 
@@ -119,13 +113,4 @@ Which type of machine learning model is most effective with respect to predictin
 📄 [Final report (PDF)](Reports/ml_flu_analysis_report.pdf) |
 💻 [GitHub repository](https://github.com/jl7033/machine_learning_flu_analysis)
 
----
-
-### ⚾ Baseball Analytics
-
----
-
-### 🏈 Football Analytics
-
----
 
