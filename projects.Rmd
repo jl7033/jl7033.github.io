@@ -10,19 +10,23 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-My portfolio includes both health- and sports-related projects. 
-
 ---
 
 ### Table of Contents
-- [Biostatistics & Health](#biostatistics--health)
-- [Baseball Analytics](#baseball-analytics)
-- [Football Analytics](#football-analytics)
+- [Exploring DNA Methylation in Breast Cancer (TCGA-BRCA)]({#dna-methylation-brca})
+- [Longitudinal Analysis of D-Penicillamine in Patients with Primary Biliary Cirrhosis](#long-anal-pbc)
+- [Building Machine Learning Models to Predict Incidence of Severe Flu](#machine-learning-flu)
+
+---
+
+### 🧬 Biostatistics & Health {#biostatistics-health}
+
+---
 
 \newline
 \newline
 
-#### 1. Exploring DNA Methylation in Breast Cancer (TCGA-BRCA)
+#### 1. Exploring DNA Methylation in Breast Cancer (TCGA-BRCA) {#dna-methylation-brca}
 
 ![](Plots/dna_methylation_volcano_plot.png){height=300px style="display:block; margin:0 auto;"}
 
@@ -51,7 +55,7 @@ Are there systematic differences in DNA methylation between tumor tissue and hea
 
 ---
 
-#### 2. Longitudinal Analysis of D-Penicillamine in Patients with Primary Biliary Cirrhosis
+#### 2. Longitudinal Analysis of D-Penicillamine in Patients with Primary Biliary Cirrhosis {#long-anal-pbc}
 
 ![](Plots/bili_spaghetti.png){height=300px style="display:block; margin:0 auto;"}
 
@@ -82,7 +86,7 @@ Does the copper chelating drug D-penicillamine lead to meaningful improvements o
 
 ---
 
-#### 3. Building Machine Learning Models to Predict Incidence of Severe Flu
+#### 3. Building Machine Learning Models to Predict Incidence of Severe Flu {#machine-learning-flu}
 
 ![](Plots/flu_cv_auc.png){height=300px style="display:block; margin:0 auto;"}
 
