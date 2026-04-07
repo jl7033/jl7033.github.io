@@ -10,10 +10,12 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-I majored in Statistics at Williams College, graduating in 2022 and earning induction into the Mu Sigma Rho and Sigma Xi honor societies for my work within the Statistics major and my undergraduate thesis. After Williams, I moved to Nashville to teach high school mathematics and physics at LEAD Academy High School as part of Teach For America. In addition to teaching, I coached LEAD's cross-country and track teams. 
+I majored in Statistics at Williams College, graduating in 2022 and earning induction into the Mu Sigma Rho and Sigma Xi honor societies for my work within the Statistics major and my undergraduate thesis. After Williams, I moved to Nashville to teach high school mathematics and physics at LEAD Academy High School as part of Teach For America. In addition to teaching, I coached LEAD's cross-country and track teams. Since then, I've transitioned to a career in Biostatistics.
 
-Since the fall of 2024, I've been pursuing an MS in Biostatistics at Columbia University, with a specialization in statistical genetics. My coursework has covered topics including probability theory, statistical inference, statistical modeling (including longitudinal and high-dimensional data such as DNA methylation data and features extracted from single-cell microscopy images), and programming in R, Python, and SQL.
+Since the fall of 2024, I've been pursuing an MS in Biostatistics at Columbia University, with a specialization in statistical genetics. My coursework has covered topics including probability theory, statistical inference, longitudinal analysis, and modeling using high-dimensional genetic and epigenetic data. Outside of the classroom, I've tested the stability and reliability of new measures of the biological pace of aging, consulted with heart failure clinicians doing cutting-edge research, and used clustering algorithms to improve the effectiveness of computer vision models applied to single-cell imaging. I have experience programming in R, Python, and SQL.
 
-I'm currently applying for jobs in statistics and/or data science, particularly within the healthcare and sports industries.
+I'll be starting my PhD at Vanderbilt University this fall! I'm thrilled to be moving back to Nashville and can't wait to get started.
+
+Outside of work, I enjoy long-distance running, jazz piano, chess, cooking, and the outdoors. If you'd like to learn more, feel free to visit my [Outside Work](outside_work.html) page!
 
 Here's a link to my [resume](../Resume/larocca_resume_2026_01.pdf). 
