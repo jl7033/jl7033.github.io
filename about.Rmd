@@ -17,7 +17,7 @@ After earning my MS from Columbia University in May of 2026 with a specializatio
 <p style="text-align: center;">
   <img src="Photos/joe_parthenon.png"
        alt="Joe Running"
-       width="220"
+       width="360"
        style="border-radius: 50%;">
 </p>
 
