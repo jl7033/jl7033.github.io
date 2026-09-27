@@ -3,7 +3,6 @@ title: "Joe LaRocca"
 subtitle: |
   <hr>
   PhD Biostatistics Student, Vanderbilt University
-  <hr>
   2022 Teach For America Corps Member
   <hr>
 output: 

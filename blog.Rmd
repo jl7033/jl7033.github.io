@@ -1,0 +1,11 @@
+---
+title: "Blog"
+output: 
+  html_document:
+    toc: false
+    toc_float: false
+---
+
+I'm starting a data analysis blog this fall! Topics will cover biostatistics/health data analyis, sports, sociology, and any other topics I'm looking to dive into!  
+
+ETA of my first post is October 2026.
